@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Anatolii-Lukianenko-Test/static/css/main.f95a3d8e.css",
+    "main.js": "/Anatolii-Lukianenko-Test/static/js/main.3d3428f6.js",
+    "static/media/welcome.jpg": "/Anatolii-Lukianenko-Test/static/media/welcome.681ae15649afbcfaec8d.jpg",
+    "static/media/uk.png": "/Anatolii-Lukianenko-Test/static/media/uk.9a82d84a95ece39ec610.png",
+    "static/media/user-avatar.jpg": "/Anatolii-Lukianenko-Test/static/media/user-avatar.b8079b39ca784399c266.jpg",
+    "static/media/ua.png": "/Anatolii-Lukianenko-Test/static/media/ua.4980fa991424d2079663.png",
+    "static/media/cat-paw.svg": "/Anatolii-Lukianenko-Test/static/media/cat-paw.982b5f6374d544d986f2eebc341c316a.svg",
+    "index.html": "/Anatolii-Lukianenko-Test/index.html",
+    "static/media/getFetch.cjs": "/Anatolii-Lukianenko-Test/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.f95a3d8e.css.map": "/Anatolii-Lukianenko-Test/static/css/main.f95a3d8e.css.map",
+    "main.3d3428f6.js.map": "/Anatolii-Lukianenko-Test/static/js/main.3d3428f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f95a3d8e.css",
+    "static/js/main.3d3428f6.js"
+  ]
+}
